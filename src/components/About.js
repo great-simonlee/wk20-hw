@@ -17,7 +17,7 @@ function About(props) {
       </section>
       <section id="intro">
         <div id="introImgBtn">
-          <img src="/assets/img/myPhoto.JPG" id="introImg" alt="myPhoto" />
+          <img src="/wk20-hw/assets/img/myPhoto.JPG" id="introImg" alt="myPhoto" />
           <a href="https://github.com/great-simonlee" target="_blank">
             <i className="fab fa-github"></i>
           </a>

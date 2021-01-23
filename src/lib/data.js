@@ -63,23 +63,23 @@ export const aboutMeDeEducation = {
   Northeastern_University: [
     "Master of Science </br> in Project Management",
     "Sep 2017 - Aug 2019",
-    "/assets/img/SEE/NEU_logo.png",
+    "/wk20-hw/assets/img/SEE/NEU_logo.png",
   ],
   Peking_University: [
     "Bachelor of Business Administration in Marketing",
     "Sep 2009 - Aug 2016",
-    "/assets/img/SEE/PKU_logo.png",
+    "/wk20-hw/assets/img/SEE/PKU_logo.png",
   ],
 };
 export const aboutMeCeEducation = {
   Columbia_University: [
     "Full-Stack Coding Boot Camp",
     "Jul 2020 - Present",
-    "/assets/img/SEE/CBU_logo.png",
+    "/wk20-hw/assets/img/SEE/CBU_logo.png",
   ],
   MIT: [
     "Machine Learning in Business",
     "Apr 2019 - Jun 2019",
-    "/assets/img/SEE/MIT_logo.png",
+    "/wk20-hw/assets/img/SEE/MIT_logo.png",
   ],
 };

@@ -5,7 +5,7 @@ function Intro(props) {
         <div>
         <section id="mainBackground">
         <img
-          src="/assets/img/background.jpg"
+          src="/wk20-hw/assets/img/background.jpg"
           alt="bg"
           id="mainBackgroundImg"
         />

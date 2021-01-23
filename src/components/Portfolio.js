@@ -12,13 +12,13 @@ const Portfolio = (props) => {
   });
 
   const pfImg = [
-    "/assets/img/PF/pf1.png",
-    "/assets/img/PF/pf2.png",
-    "/assets/img/PF/pf3.png",
-    "/assets/img/PF/pf4.png",
-    "/assets/img/PF/pf5.png",
-    "/assets/img/PF/pf6.png",
-    "/assets/img/PF/pf7.png",
+    "/wk20-hw/assets/img/PF/pf1.png",
+    "/wk20-hw/assets/img/PF/pf2.png",
+    "/wk20-hw/assets/img/PF/pf3.png",
+    "/wk20-hw/assets/img/PF/pf4.png",
+    "/wk20-hw/assets/img/PF/pf5.png",
+    "/wk20-hw/assets/img/PF/pf6.png",
+    "/wk20-hw/assets/img/PF/pf7.png",
   ];
 
   const pfTitle = {
